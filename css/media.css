@@ -1,0 +1,87 @@
+@media (max-width:1200px) {
+    /* Create two equal columns that floats next to each other */
+    .column {
+        float: left;
+        width: 50%;
+        /* Should be removed. Only for demonstration */
+    }
+	.Shivam_LTD_truck>img {
+    width: 261px;
+    margin: 26px 10px;
+}
+    /* Clear floats after the columns */
+    /*---nav-custom----*/
+    .navigation {
+        display: none;
+	
+    }
+	
+    
+    .nav-btn {
+        position: absolute;
+        right: 16px;
+        z-index: 999;
+        font-size: 42px;
+        top: -57px;
+        display: block!important;
+        color: rgb(0 166 255)!important;
+    
+    }
+    .shivam-motors-logo>img {
+        width: 57px;
+
+    }
+    /*---nav-custom----*/
+    /*---header-custum---*/
+    span {
+        display: block;
+    }
+    .Shivam-Social-connect {
+        text-align: center!important;
+    }
+    .Shivam-Social-connect {
+        display: none;
+    }
+    /*---header-custum---*/
+    /*--crousel--custum-height--*/
+    .item>img {
+        height: 205px!important;
+        width: 100%!important;
+    }
+    /*--crousel--custum-height--*/
+    /*--banner--*/
+    .banner-truck>img {
+        width: 289px;
+    }
+    /*--banner--*/
+	/*-----------------ABOUT-PAGE-CUSTUM-----------------*/
+	.tabcontent>img {
+    width: 276px!important;
+    }
+	/*-----------------/ABOUT-PAGE-----------------------*/
+	/*-----------------BASIC CSS-PAGE-CUSTUM-----------------*/
+	/*about*/
+	/*product*/
+	/*gallery*/
+	/*contact*/
+	.Contact-page,.gallery-page,.product-page,.banner-about,.branch-page {
+		    padding: 39px 0px!important;
+	}
+	
+	/*-----------------/BASIC CSS-PAGE-CUSTUM-----------------*/
+	.btn_sticky{
+		position: sticky!important;
+    z-index: 999999!important;
+    top: 58px!important;
+    background: rgb(255 255 255)!important;
+    }
+	.buttn-product {
+		padding: 4px!important;
+		background: rgb(0 166 255);
+		box-shadow: 2 black;
+		font-size: 16px!important;
+		text-decoration: none!important;
+}
+
+
+}

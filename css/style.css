@@ -1,0 +1,164 @@
+* {
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+}
+html {
+scroll-behavior: smooth;
+}
+body {
+font-family: 'Kanit', sans-serif!important;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+font-size: 35px!important;
+}
+/*---website-Backgrounds-Css----*/
+header,
+.Service,
+.Shivam_LTD_truck>a {
+background: rgb(0 166 255);
+color: white!important;
+}
+.cnt-img {
+background: rgb(15 15 91) url(../img/weare-there-foryou.png) bottom center no-repeat;
+background-position-y: 144px;
+text-align: center;
+padding-bottom: 152px;
+position: relative;
+top: 41px;
+}
+.banner {
+background: url(../img/build-your-truck-moble.png);
+background-repeat: no-repeat;
+background-position-y: 374px;
+}
+footer {
+background-image: url(../img/footer-bg.jpg);
+background-position: center;
+background-size: cover;
+padding: 10px;
+color: rgb(255 255 255)!important;
+padding: 90px 0px;
+background-repeat: no-repeat;
+margin-top: 29px;
+}
+nav {
+background-color: white;
+}
+/*-----/website-Backgrounds-Css/-----*/
+/*---------website-color----*/
+.color-white {
+color: white!important;
+}
+/*---------website-color----*/
+/*----Webiste-Image-custom-Css----*/
+.shivam-motors-logo>img {
+width: 84px;
+padding: 10px;
+}
+.Services>img {
+width: 80px;
+filter: invert(1);
+}
+.Shivam_LTD_truck>img{
+	width: 261px;
+	margin: 0px 10px;
+
+}
+
+
+/*------/Webiste-Image-Css/-----*/
+/*----website-padding-custom-css*/
+.pad-10,
+header,nav {
+padding: 10px;
+}
+/*----/website-padding-custom-css/---*/
+/*---paragraph--custum-css---*/
+p {
+font-size: 18px!important;
+}
+/*---paragraph--custum-css---*/
+/*-----Main-Custom-Css------*/
+/*-header-custom-css-*/
+.Shivam-Social-connect>ul>li {
+text-align: right!important;
+padding-left: 20px;
+padding-right: 20px;
+color: white!important;
+list-style-type: none;
+display: inline-block;
+}
+.Shivam-Social-connect {
+text-align: right!important;
+}
+.Shivam-Social-connect,
+.Shivam-email-phone,
+.navigation {
+margin: 10px 0px;
+}
+.none {
+display: none!important;
+}
+span,
+.Services>p {
+font-size: 15px;
+letter-spacing: 2px;
+}
+/*header-custom-css*/
+/*-nav-custom-css--*/
+.sticky {
+position: sticky;
+top: 0px;
+    z-index: 999999999;
+box-shadow: 0px 6px 10px -3px;
+transition: 0.6s;
+padding:0px;
+}
+.navigation>ul>li>a {
+font-size: 16px!important;
+}
+/*-nav-custom-css--*/
+/*map-Website-contact-section*/
+.commonSec {
+width: 100%;
+padding: 90px 0;
+float: left;
+}
+/*map-Website-contact-section*/
+.banner-truck>img {
+margin: 68px 0px;
+}
+/*--footer-custom---*/
+.Shiva-ltd-services>ul>li,
+.Shiva-ltd-services>ul>li a {
+padding: 10px 0px;
+color: white!important;
+}
+.footer-Social-connect>ul>li {
+text-align: right!important;
+padding-left: 20px;
+padding-right: 20px;
+color: white!important;
+list-style-type: none;
+display: inline-block;
+}
+.Shiva-ltd-services>p {
+font-size: 24px!important;
+letter-spacing: 2px;
+}
+/*--footer-custom---*/
+.more{
+padding: 10px 27px!important;
+    background: rgb(15 15 91)!important;}
+/*-----/main-Custom-Css------*/
+/*-----------------BASIC CSS-PAGE-CUSTUM-----------------*/
+.Contact-page,.gallery-page,.product-page,.banner-about {
+padding: 120px 0px;
+}
+/*-----------------/BASIC CSS-PAGE-CUSTUM-----------------*/

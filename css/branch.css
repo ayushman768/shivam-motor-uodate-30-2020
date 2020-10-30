@@ -1,0 +1,18 @@
+/*--banner-background-custom*/
+
+.branch-bg {
+    background-image: url(../img/branch-bg-image.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+/*--banner-background-custom*/
+
+
+/* branch-page-custom */
+
+.product-page>h1 {
+    padding: 10px 0px 0px 30px;
+}

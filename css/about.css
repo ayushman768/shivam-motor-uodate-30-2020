@@ -1,0 +1,76 @@
+/*--banner-background-custom*/
+
+.about-bg {
+    background-image: url(../img/resize-1603015022840918040lighttrucksbanner.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.layer {
+    background: rgb(7 115 187 / 39%);
+    color: white;
+}
+
+.banner-about>h1 {
+    padding: 10px 0px 0px 30px;
+}
+
+
+/*--banner-background-custom*/
+
+
+/* Style the buttons inside the tab */
+
+
+/*----main-Tab-css--*/
+
+.tab button {
+    background-color: rgb(7 115 187);
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    font-size: 17px;
+    color: rgb(255 255 255);
+    margin: 10px 3px;
+}
+
+
+/* .block {
+    display: block!important;
+} */
+
+
+/* Change background color of buttons on hover */
+
+.tab button:hover {
+    background-color: #ddd;
+}
+
+
+/* Create an active/current tablink class */
+
+.tab button.active {
+    background-color: #ccc;
+}
+
+
+/* Style the tab content */
+
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+    text-align: center;
+}
+
+.tabcontent>img {
+    width: 500px;
+}
+
+
+/*---------Tab-css------*/

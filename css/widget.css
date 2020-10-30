@@ -1,0 +1,32 @@
+.sidefix {
+    width: 87px;
+    height: auto;
+    position: fixed;
+    z-index: 999;
+    right:-70px;
+    top: 77%;
+  
+ }
+ .sidefix>a>img{
+	     width: 84px!important;
+ }
+ 
+ .floating-wpp .floating-wpp-popup .floating-wpp-head {
+    text-align: center!important;
+    color: rgb(255 255 255);
+    margin: 0 -15px 10px;
+    padding: 6px 12px;
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+}
+
+.floating-wpp {
+    position: fixed;
+    bottom: 85px!important;
+    left: 15px;
+    font-size: 14px;
+    transition: bottom .2s;
+	left: auto;
+    right: -6px!important;
+}

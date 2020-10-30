@@ -1,0 +1,64 @@
+/*--banner-background-custom*/
+
+.product-bg {
+    background-image: url(../img/bafna_website_Banner_13.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+/*--banner-background-custom*/
+
+
+/* product-page-custom */
+
+.product-page>h1 {
+    padding: 10px 0px 0px 30px;
+}
+
+
+/* prdduct-buttn-custom */
+
+.Mybuttn{
+    padding: 40px 5px;
+    background: rgb(255 255 255);
+    box-shadow: 2 black;
+    box-shadow: 1px 4px 9px -2px grey;
+    font-size: 16px;
+    transition: 0.4s ease;
+    color: black!important;
+}
+
+.buttn-product {
+    padding: 40px 5px;
+    background: rgb(0 166 255);
+    box-shadow: 2 black;
+    font-size: 16px;
+    text-decoration: none!important;
+    cursor: pointer;
+}
+
+.buttn-product>a {
+    color: white;
+    text-decoration: none!important;
+}
+
+.btn-sticky-window {
+    position: sticky;
+    z-index: 999999;
+    top: 84px;
+    background: rgb(255 255 255);
+    transition: -.2s all;
+}
+
+.btn-prdouct-book {
+    background: rgb(0 166 255);
+    color: rgb(255 255 255)!important;
+}
+
+
+/* prdduct-buttn-custom */
+
+
+/* product-page-custom */
